@@ -25,7 +25,7 @@ pip install -r requirements.txt
 streamlit run streamlit_app.py
 ```
 
-No paid key. The demo CSVs are already in `data/`, next to `data/generate_demo_data.py` and `data/data_dictionary.md`.
+No paid key. The demo CSVs are already in `data/`, next to `data/generate_demo_data.py`. The data dictionary is `docs/data_dictionary.md`.
 
 ## Repository
 
